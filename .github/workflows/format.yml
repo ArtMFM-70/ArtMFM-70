@@ -34,12 +34,19 @@ jobs:
       run: |
         npx prettier --write '**/*.md'
 
-    - name: Commit changes
+    - name: Delete node_modules and package.json
+      run: |
+        rm -rf node_modules
+        rm -f package.json
+        rm -f package-lock.json
+
+    - name: Commit changes if any
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "AutoFormat"
-        git push
+        git diff --cached --quiet || git commit -m "AutoFormat"
+        git push https://github.com/${{ github.repository }} HEAD:${{ github.ref }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
