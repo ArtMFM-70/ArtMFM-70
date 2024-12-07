@@ -2,10 +2,6 @@
 
 <sub>_"Crafting Ideas into Reality, One Line of Code at a Time"_ — ArtMFM-70</sub>
 
-### 💻 Most-Used Technologies & Tools
-
-![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,vue,vite,nodejs,ai&theme=dark)
-
 ### 🚀 About Me
 
 🛠 🎨 **Creative Thinker** | 📖 **Lifelong Learner**  
@@ -20,6 +16,10 @@ Hi! I’m **ArtMFM-70**, a passionate developer. I greatly interested in UI Dev 
 - 🎯 Goals for 2025:
   - Contribute more to **open-source communities**
   - Expand my expertise in **JavaScript** and **UI/UX**
+
+### Skills
+
+![skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,vue,vite,nodejs,ai&theme=dark)
 
 ### 📈 GitHub Stats
 
