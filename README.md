@@ -1,10 +1,10 @@
-# 🌌 Welcome to [ArtMFM-70's](https://github.com/ArtMFM-70) Universe 🚀
+# 🌌 Welcome to [ArtMFM-70](https://github.com/ArtMFM-70)'s Universe 🚀
 
 <sub>_"Crafting Ideas into Reality, One Line of Code at a Time"_ — ArtMFM-70</sub>
 
 ### 💻 Most-Used Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,tailwindcss,vue,vite,nodejs,ai&theme=dark&perline=6)
+![Languages](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,vue,vite,nodejs,ai&theme=dark)
 
 ### 🚀 About Me
 
@@ -24,8 +24,8 @@ Hi! I’m **ArtMFM-70**, a passionate developer. I greatly interested in UI Dev 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtMFM-70&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtMFM-70&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtMFM-70&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180rem" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtMFM-70&layout=compact&theme=github_dark&langs_count=5" alt="Top Languages" height="180rem" />
 </p>
 
 ### 🌟 Featured Projects
