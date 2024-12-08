@@ -23,16 +23,18 @@ Hi! I’m **ArtMFM-70**, a passionate developer. I greatly interested in UI Dev 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtMFM-70&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180rem" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtMFM-70&layout=compact&theme=github_dark&langs_count=5" alt="Top Languages" height="180rem" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ArtMFM-70&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180rem" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtMFM-70&layout=compact&theme=github_dark&langs_count=5" alt="Top Languages" height="180rem" />
 
 ### 🌟 Featured Projects
 
-#### 1️⃣ [**AlphaNum**](https://github.com/ArtMFM-70/AlphaNum)
+#### 1. [**AlphaNum**](https://github.com/ArtMFM-70/AlphaNum)
 
 🔗 A lightweight JavaScript utility library for encoding and decoding alphanumeric text into numeric representations.
+
+#### 2. [**AlphaNum API**](https://github.com/ArtMFM-70/AN-API)
+
+🔗 An API for Encoding/Decoding alphanumeric text using AlphaNum.
 
 <!--
 ### 🌐 Connect with Me
